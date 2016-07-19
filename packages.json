@@ -5,14 +5,14 @@
             "name": "Minecraft Vanilla",
             "title": "Minecraft Vanilla",
             "version": "20100223",
-            "location": "lightpack.json",
+            "location": "test2.json",
             "priority": 1
         },
         {
             "name": "Direwolf20 1.7.10 FTB",
             "title": "Direwolf20 1.7.10 FTB",
             "version": "20100223",
-            "location": "monsterpack.json",
+            "location": "test3.json",
             "priority": 2
         },
         {
