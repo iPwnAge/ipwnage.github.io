@@ -2,18 +2,25 @@
     "minimumVersion": 1,
     "packages": [
         {
-            "name": "Light Modpack",
-            "title": "Light Modpack",
+            "name": "Minecraft Vanilla",
+            "title": "Minecraft Vanilla",
             "version": "20100223",
             "location": "lightpack.json",
             "priority": 1
         },
         {
-            "name": "Monster Modpack",
-            "title": "Monster Modpack",
+            "name": "Direwolf20 1.7.10 FTB",
+            "title": "Direwolf20 1.7.10 FTB",
             "version": "20100223",
             "location": "monsterpack.json",
-            "priority": 1
+            "priority": 2
+        },
+        {
+            "name": "Pixelmon",
+            "title": "Pixelmon",
+            "version": "20100223",
+            "location": "test.json",
+            "priority": 3
         }
     ]
 }
